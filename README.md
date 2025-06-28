@@ -1,5 +1,14 @@
 ### 你好
 
+由于本人学业繁忙，所有项目暂缓更新，预计 2026 年 6 月 17 日后恢复。
+
+在此期间，所有项目只会进行如下类型的更新：
+
+1. 在核心功能不可用时进行紧急修复；
+2. 适配 CoCo 更新。
+
+---
+
 <div align="left">
 <img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=s-lightning&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lightning&amp;layout=compact" height="157px"/>
